@@ -1,5 +1,9 @@
 require "testgem/version"
 
 module Testgem
-  # Your code goes here...
+
+  def self.square(arg)
+    arg * arg
+  end
+
 end

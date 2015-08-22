@@ -6,3 +6,4 @@
 !_TAG_PROGRAM_VERSION	5.8	//
 Testgem	lib/testgem.rb	/^module Testgem$/;"	m
 Testgem	lib/testgem/version.rb	/^module Testgem$/;"	m
+square	lib/testgem.rb	/^  def self.square(arg)$/;"	F	class:Testgem

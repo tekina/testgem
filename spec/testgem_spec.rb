@@ -5,7 +5,8 @@ describe Testgem do
     expect(Testgem::VERSION).not_to be nil
   end
 
-  it 'does something useful' do
-    expect(false).to eq(true)
+  it 'returns square of a number' do
+    res = Testgem.square(4)
+    expect(res).to eq(16)
   end
 end
