@@ -3,6 +3,7 @@
 Gem for learning how to make gems in ruby.
 
 [![Code Climate](https://codeclimate.com/github/tekina/testgem/badges/gpa.svg)](https://codeclimate.com/github/tekina/testgem)
+[![Build Status](https://travis-ci.org/tekina/testgem.png)](https://travis-ci.org/tekina/testgem)
 
 ## Installation
 
